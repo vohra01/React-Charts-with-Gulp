@@ -249,8 +249,6 @@ document.getElementById('barChart')
 );
 ```
 
-## Developers
-Source code is pretty straightforward. You can take a look at https://github.com/NuCivic/react-nvd3/blob/master/index.js.
 
 #### Requirements
 * nodejs
