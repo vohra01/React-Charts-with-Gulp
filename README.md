@@ -258,7 +258,7 @@ Source code is pretty straightforward. You can take a look at https://github.com
 * gulp
 
 #### Quick start
-* git clone https://github.com/NuCivic/react-nvd3.git
+* git clone https://github.com/vohra01/React-Charts-with-Gulp.git
 * cd react-nvd3
 * npm install
 * gulp serve
